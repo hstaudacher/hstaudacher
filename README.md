@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! I'm Holger Staudacher 👋
+# Hey there! I'm Holger 👋
 
 ### 🚀 Building the future of AI-powered development
 
