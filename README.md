@@ -11,21 +11,6 @@
 
 ---
 
-## 🎯 About Me
-
-```typescript
-const holger = {
-    role: "Software Engineer @ GitHub",
-    focus: "Model Context Protocol (MCP)",
-    achievements: [
-        "🤖 Co-Creator of GitHub Copilot Chat for VSCode & JetBrains",
-        "🌙 Former Eclipse Committer",
-        "🎤 Conference Speaker"
-    ],
-    passions: ["AI/ML", "Developer Tools", "Open Source"]
-};
-```
-
 ## 🔭 What I'm Working On
 
 <table>
