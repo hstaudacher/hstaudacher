@@ -18,7 +18,7 @@
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-blueviolet?style=for-the-badge" alt="MCP"/>
       <br/>
-      <sub><b>Shaping the future of AI agent interactions</b></sub>
+      <sub><b>Shaping the future of AI agent interactions here at GitHub</b></sub>
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/GitHub-Copilot-000?style=for-the-badge&logo=github&logoColor=white" alt="Copilot"/>
