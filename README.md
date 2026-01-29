@@ -7,4 +7,4 @@ Hey, I'm Holger 👋
 
 Co-creator of [GitHub Copilot Chat](https://github.com/features/copilot), bringing AI-powered development to millions of developers.
 
-You can work with me and the awesome team at [GitHub Copilot](https://github.com/features/copilot)
+You can work with me and the awesome team at [GitHub Copilot](https://github.com/features/copilot).
